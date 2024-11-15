@@ -1,0 +1,25 @@
+=======================================================================
+# RECALBOX: Sistema Nintendo Entertainment System (Console caseiro)
+=======================================================================
+
+Copie suas roms de Nintendo Entertainment System aqui.
+As extensões suportadas são: .unf .nes .7z .unif .zip
+
+Esse sistema podem ser emulados usando 6 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-nestopia suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-fceumm suporta arquivos de .nes .unf .unif .zip .7z e  é compatível com netplay/jogo em rede.
+libretro-fceunext suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-quicknes suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-mesen suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-fbneo suporta arquivos de .zip .7z e  é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é desnecessário
+- Mouse é desnecessário
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

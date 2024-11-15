@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Sistema OpenBOR (Motor de juego)
+=======================================================================
+
+Copiad vuestras roms OpenBOR aquí.
+Las extensiones soportadas son: .pak
+
+Este sistema es emulado por 1 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+openbor-openbor soporta ficheros de tipo .pak y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es no necesario
+
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/engines/openbor

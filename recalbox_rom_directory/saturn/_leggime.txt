@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema Sega Saturn (Console da Tavolo)
+=======================================================================
+
+Copia qui le rom per Sega Saturn.
+I file supportati sono: .cue .chd .mds .ccd .iso .m3u
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-mednafen_saturn supporta i file di .ccd .chd .cue .iso .mds .m3u e  è compatibile con Netplay.
+libretro-yabasanshiro supporta i file di .ccd .chd .cue .iso .mds .m3u e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+

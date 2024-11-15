@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Système MegaDuck (Console portable)
+=======================================================================
+
+Copiez vos roms MegaDuck ici.
+Les extensions supportées sont: .bin
+
+Ce système peut être émulé par 1 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-sameduck supporte des fichiers de type .bin et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/handhelds/megaduck

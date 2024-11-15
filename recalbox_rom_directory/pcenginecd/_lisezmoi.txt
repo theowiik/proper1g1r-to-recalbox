@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Système PC Engine CD (Console de Salon)
+=======================================================================
+
+Copiez vos roms PC Engine CD ici.
+Les extensions supportées sont: .cue .chd .ccd .toc .m3u
+
+Ce système peut être émulé par 2 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-mednafen_supergrafx supporte des fichiers de type .ccd .chd .cue .m3u .toc et est compatible netplay.
+libretro-mednafen_pce_fast supporte des fichiers de type .ccd .chd .cue .m3u .toc et est compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/consoles/pc-engine-cd

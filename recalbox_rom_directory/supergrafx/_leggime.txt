@@ -1,0 +1,21 @@
+=======================================================================
+# RECALBOX: Sistema Supergrafx (Console da Tavolo)
+=======================================================================
+
+Copia qui le rom per Supergrafx.
+I file supportati sono: .7z .cue .chd .pce .ccd .sgx .zip
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-mednafen_supergrafx supporta i file di .ccd .chd .cue .pce .sgx .zip .7z e  è compatibile con Netplay.
+libretro-fbneo supporta i file di .zip .7z e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+Questo sistema permette di utilizzare rom compresse in formato .zip o .7z.
+Ma si tratta solamente di un file d'archivio. I file all'interno del .zip/.7z devono combaciare con le estensioni menzionate in precedenza.
+Ogni .zip/.7z deve contenere solamente una rom compressa.
+

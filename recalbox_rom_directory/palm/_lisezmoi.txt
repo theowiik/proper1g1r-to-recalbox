@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Système Palm (Console portable)
+=======================================================================
+
+Copiez vos roms Palm ici.
+Les extensions supportées sont: .img .prc .pdb .pqa
+
+Ce système peut être émulé par 1 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-mu supporte des fichiers de type .img .pdb .pqa .prc et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/handhelds/palm-os

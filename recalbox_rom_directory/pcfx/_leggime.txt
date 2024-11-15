@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Sistema NEC PC-FX (Console da Tavolo)
+=======================================================================
+
+Copia qui le rom per NEC PC-FX.
+I file supportati sono: .cue .ccd .toc .chd
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-mednafen_pcfx supporta i file di .cue .ccd .toc .chd e  è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+

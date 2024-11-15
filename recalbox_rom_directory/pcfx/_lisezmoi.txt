@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Système NEC PC-FX (Console de Salon)
+=======================================================================
+
+Copiez vos roms NEC PC-FX ici.
+Les extensions supportées sont: .cue .ccd .toc .chd
+
+Ce système peut être émulé par 1 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-mednafen_pcfx supporte des fichiers de type .cue .ccd .toc .chd et est compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/consoles/pc-fx

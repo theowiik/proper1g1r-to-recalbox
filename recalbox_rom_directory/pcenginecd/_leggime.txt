@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema PC Engine CD (Console da Tavolo)
+=======================================================================
+
+Copia qui le rom per PC Engine CD.
+I file supportati sono: .cue .chd .ccd .toc .m3u
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-mednafen_supergrafx supporta i file di .ccd .chd .cue .m3u .toc e  è compatibile con Netplay.
+libretro-mednafen_pce_fast supporta i file di .ccd .chd .cue .m3u .toc e  è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+

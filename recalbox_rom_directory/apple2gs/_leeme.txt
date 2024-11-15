@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Sistema Apple IIGS (Ordenador)
+=======================================================================
+
+Copiad vuestras roms Apple IIGS aquí.
+Las extensiones soportadas son: .po .2mg .hdv .gsplus
+
+Este sistema es emulado por 1 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+gsplus-gsplus soporta ficheros de tipo .2mg .hdv .po .gsplus y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son opcionales
+- Un teclado es obligatorio
+- Un ratón es recomendado
+
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/computers/apple-2-gs

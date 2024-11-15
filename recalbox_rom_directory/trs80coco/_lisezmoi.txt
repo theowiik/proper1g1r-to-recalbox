@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Système TRS-80 Color Computer (Ordinateur)
+=======================================================================
+
+Copiez vos roms TRS-80 Color Computer ici.
+Les extensions supportées sont: .rom .ccc .cas .wav .vdk .jvc .c10 .bas .os9 .dsk .asc .dmk
+
+Ce système peut être émulé par 1 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+xroar-xroar supporte des fichiers de type .c10 .cas .wav .bas .asc .dmk .jvc .os9 .dsk .vdk .rom .ccc et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont optionelles
+- Un clavier est obligatoire
+- Une souris est optionelle
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/computers/trs-80-coco

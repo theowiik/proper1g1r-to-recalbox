@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Sistema Sharp X68000 (Computador)
+=======================================================================
+
+Copie suas roms de Sharp X68000 aqui.
+As extensões suportadas são: .88d .7z .dup .zip .cmd .img .2hd .xdf .d88 .hdf .hdm .m3u .dim
+
+Esse sistema podem ser emulados usando 1 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-px68k suporta arquivos de .2hd .88d .cmd .dim .d88 .dup .hdf .hdm .img .m3u .xdf .zip .7z e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é recomendado
+- Mouse é opcional
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Sistema Neo-Geo CD (Consola de Salón)
+=======================================================================
+
+Copiad vuestras roms Neo-Geo CD aquí.
+Las extensiones soportadas son: .cue .chd .img .ccd .iso .bin
+
+Este sistema es emulado por 2 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-fbneo soporta ficheros de tipo .bin .ccd .cue .img .iso y no es compatible netplay.
+libretro-neocd soporta ficheros de tipo .chd .cue y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es no necesario
+
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/consoles/neo-geo-cd

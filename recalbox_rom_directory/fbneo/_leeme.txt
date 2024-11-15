@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Sistema FinalBurn Neo (Sistema Arcade)
+=======================================================================
+
+Copiad vuestras roms FinalBurn Neo aquí.
+Las extensiones soportadas son: .7z .zip
+
+Este sistema es emulado por 1 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-fbneo soporta ficheros de tipo .zip .7z y es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es no necesario
+
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/arcade/final-burn-neo

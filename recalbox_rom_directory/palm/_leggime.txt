@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Sistema Palm (Console Portatile)
+=======================================================================
+
+Copia qui le rom per Palm.
+I file supportati sono: .img .prc .pdb .pqa
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-mu supporta i file di .img .pdb .pqa .prc e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+

@@ -1,0 +1,22 @@
+=======================================================================
+# RECALBOX: System Mame (Arcade)
+=======================================================================
+
+Kopiere deine Mame roms hier her.
+Unterstützte Dateierweiterungen sind: .7z .zip
+
+Dieses System kann mit 6 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-mame unterstüzt .zip .7z und ist  kompatibel mit Netplay.
+libretro-mame2003_plus unterstüzt .zip .7z und ist  kompatibel mit Netplay.
+libretro-mame2003 unterstüzt .zip .7z und ist  kompatibel mit Netplay.
+libretro-mame2010 unterstüzt .zip .7z und ist NICHT kompatibel mit Netplay.
+libretro-mame2015 unterstüzt .zip .7z und ist NICHT kompatibel mit Netplay.
+advancemame-advancemame unterstüzt .zip .7z und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+

@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: System Apple Macintosh (Computer)
+=======================================================================
+
+Kopiere deine Apple Macintosh roms hier her.
+Unterstützte Dateierweiterungen sind: .cmd .img .hvf .dsk .zip
+
+Dieses System kann mit 1 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-minivmac unterstüzt .cmd .dsk .hvf .img .zip und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist optional
+- Eine Maus ist pflicht
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

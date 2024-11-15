@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Sistema Solarus (Game engine)
+=======================================================================
+
+Copie suas roms de Solarus aqui.
+As extensões suportadas são: .solarus .zip
+
+Esse sistema podem ser emulados usando 1 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+solarus-solarus suporta arquivos de .zip .solarus e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é opcional
+- Mouse é desnecessário
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

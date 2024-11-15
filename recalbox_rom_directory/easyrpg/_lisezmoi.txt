@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Système EasyRPG (Moteur de jeu)
+=======================================================================
+
+Copiez vos roms EasyRPG ici.
+Les extensions supportées sont: files: RPG_RT.INI
+
+Ce système peut être émulé par 1 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-easyrpg supporte des fichiers de type files: RPG_RT.INI et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/engines/easyrpg

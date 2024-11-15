@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Sistema WASM-4 (Consola virtual)
+=======================================================================
+
+Copiad vuestras roms WASM-4 aquí.
+Las extensiones soportadas son: .wasm
+
+Este sistema es emulado por 1 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-wasm4 soporta ficheros de tipo .wasm y es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es opcional
+- Un ratón es opcional
+
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/fantasy/wasm4

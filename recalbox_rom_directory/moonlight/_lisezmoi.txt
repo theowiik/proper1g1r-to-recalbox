@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Système Moonlight (System virtuel)
+=======================================================================
+
+Copiez vos roms Moonlight ici.
+Les extensions supportées sont: .moonlight
+
+Ce système peut être émulé par 1 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+moonlight-moonlight supporte des fichiers de type .moonlight et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+

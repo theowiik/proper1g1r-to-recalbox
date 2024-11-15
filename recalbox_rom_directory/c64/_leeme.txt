@@ -1,0 +1,39 @@
+=======================================================================
+# RECALBOX: Sistema Commodore 64 (Ordenador)
+=======================================================================
+
+Copiad vuestras roms Commodore 64 aquí.
+Las extensiones soportadas son: .rom .d2m .nbz .7z .d7z .x6z .prg .d80 .m3u .d67 .nib .p00 .gz .dhd .d8z .g64 .d81 .20 .tcrt .d6z .d90 .d4m .cmd .tap .d1m .a0 .t64 .x64 .d71 .vfl .60 .b0 .d82 .g41 .40 .zip .g6z .g4z .p64 .vsf .d64 .bin .crt
+
+Este sistema es emulado por 18 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-vice_x64 soporta ficheros de tipo .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz y no es compatible netplay.
+libretro-vice_x64sc soporta ficheros de tipo .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz y no es compatible netplay.
+libretro-vice_xplus4 soporta ficheros de tipo .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz y no es compatible netplay.
+libretro-vice_xpet soporta ficheros de tipo .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz y no es compatible netplay.
+libretro-vice_xvic soporta ficheros de tipo .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz .20 .40 .60 .a0 .b0 .rom y no es compatible netplay.
+libretro-vice_x128 soporta ficheros de tipo .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz y no es compatible netplay.
+libretro-vice_xscpu64 soporta ficheros de tipo .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz y no es compatible netplay.
+libretro-vice_xcbm2 soporta ficheros de tipo .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz y no es compatible netplay.
+libretro-vice_xcbm5x0 soporta ficheros de tipo .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz y no es compatible netplay.
+vice-x64 soporta ficheros de tipo .d64 .d6z .d67 .d71 .d7z .d80 .d81 .d82 .d8z .d90 .d1m .d2m .d4m .dhd .g64 .g6z .g41 .g4z .x6z .nib .nbz .t64 .tap .tcrt .p64 .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .x64 .zip .7z .gz y no es compatible netplay.
+vice-x64sx soporta ficheros de tipo .d64 .d6z .d67 .d71 .d7z .d80 .d81 .d82 .d8z .d90 .d1m .d2m .d4m .dhd .g64 .g6z .g41 .g4z .x6z .nib .nbz .t64 .tap .tcrt .p64 .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .x64 .zip .7z .gz y no es compatible netplay.
+vice-xplus4 soporta ficheros de tipo .d64 .d6z .d67 .d71 .d7z .d80 .d81 .d82 .d8z .d90 .d1m .d2m .d4m .dhd .g64 .g6z .g41 .g4z .x6z .nib .nbz .t64 .tap .tcrt .p64 .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .x64 .zip .7z .gz y no es compatible netplay.
+vice-xpet soporta ficheros de tipo .d64 .d6z .d67 .d71 .d7z .d80 .d81 .d82 .d8z .d90 .d1m .d2m .d4m .dhd .g64 .g6z .g41 .g4z .x6z .nib .nbz .t64 .tap .tcrt .p64 .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .x64 .zip .7z .gz y no es compatible netplay.
+vice-xvic soporta ficheros de tipo .d64 .d6z .d67 .d71 .d7z .d80 .d81 .d82 .d8z .d90 .d1m .d2m .d4m .dhd .g64 .g6z .g41 .g4z .x6z .nib .nbz .t64 .tap .tcrt .p64 .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .x64 .zip .7z .gz y no es compatible netplay.
+vice-x128 soporta ficheros de tipo .d64 .d6z .d67 .d71 .d7z .d80 .d81 .d82 .d8z .d90 .d1m .d2m .d4m .dhd .g64 .g6z .g41 .g4z .x6z .nib .nbz .t64 .tap .tcrt .p64 .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .x64 .zip .7z .gz y no es compatible netplay.
+vice-xscpu64 soporta ficheros de tipo .d64 .d6z .d67 .d71 .d7z .d80 .d81 .d82 .d8z .d90 .d1m .d2m .d4m .dhd .g64 .g6z .g41 .g4z .x6z .nib .nbz .t64 .tap .tcrt .p64 .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .x64 .zip .7z .gz y no es compatible netplay.
+vice-xcbm2 soporta ficheros de tipo .d64 .d6z .d67 .d71 .d7z .d80 .d81 .d82 .d8z .d90 .d1m .d2m .d4m .dhd .g64 .g6z .g41 .g4z .x6z .nib .nbz .t64 .tap .tcrt .p64 .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .x64 .zip .7z .gz y no es compatible netplay.
+vice-xcbm5x0 soporta ficheros de tipo .d64 .d6z .d67 .d71 .d7z .d80 .d81 .d82 .d8z .d90 .d1m .d2m .d4m .dhd .g64 .g6z .g41 .g4z .x6z .nib .nbz .t64 .tap .tcrt .p64 .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .x64 .zip .7z .gz y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son recomendados
+- Un teclado es obligatorio
+- Un ratón es opcional
+
+Este sistema permite usar roms comprimidas en .zip y/o .7z.
+Sin embargo solo se trata de un archivo de almacenamiento. Los archivos dentro de .zip/.7z deben coincidir con las extensiones mencionadas arriba.
+Cada archivo .zip/.7z debe contener únicamente una rom comprimida.
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/computers/commodore-64

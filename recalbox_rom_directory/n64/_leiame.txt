@@ -1,0 +1,23 @@
+=======================================================================
+# RECALBOX: Sistema Nintendo 64 (Console caseiro)
+=======================================================================
+
+Copie suas roms de Nintendo 64 aqui.
+As extensões suportadas são: .n64 .7z .v64 .z64 .zip
+
+Esse sistema podem ser emulados usando 4 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+mupen64plus-glide64mk2 suporta arquivos de .n64 .v64 .z64 e NÃO é compatível com netplay/jogo em rede.
+libretro-parallel_n64 suporta arquivos de .n64 .v64 .z64 .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-mupen64plus_next suporta arquivos de .n64 .v64 .z64 .zip .7z e NÃO é compatível com netplay/jogo em rede.
+mupen64plus-rice suporta arquivos de .n64 .v64 .z64 e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é desnecessário
+- Mouse é desnecessário
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

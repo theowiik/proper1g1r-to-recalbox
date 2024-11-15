@@ -1,0 +1,24 @@
+=======================================================================
+# RECALBOX: System Game Boy (Handheld)
+=======================================================================
+
+Kopiere deine Game Boy roms hier her.
+Unterstützte Dateierweiterungen sind: .bin .7z .gb .zip
+
+Dieses System kann mit 5 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-gambatte unterstüzt .gb .bin .zip .7z und ist NICHT kompatibel mit Netplay.
+libretro-tgbdual unterstüzt .gb .bin .zip .7z und ist NICHT kompatibel mit Netplay.
+libretro-mgba unterstüzt .gb .bin .zip .7z und ist  kompatibel mit Netplay.
+libretro-sameboy unterstüzt .gb .bin .zip .7z und ist  kompatibel mit Netplay.
+libretro-mesen_s unterstüzt .gb .zip .7z und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

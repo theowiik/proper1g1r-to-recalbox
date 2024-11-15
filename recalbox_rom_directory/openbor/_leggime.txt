@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Sistema OpenBOR (Motore grafico)
+=======================================================================
+
+Copia qui le rom per OpenBOR.
+I file supportati sono: .pak
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+openbor-openbor supporta i file di .pak e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+

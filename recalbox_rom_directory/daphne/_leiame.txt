@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema Daphne (Sistema Arcade)
+=======================================================================
+
+Copie suas roms de Daphne aqui.
+As extensões suportadas são: .ogv .daphne
+
+Esse sistema podem ser emulados usando 2 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+daphne-daphne suporta arquivos de .daphne e NÃO é compatível com netplay/jogo em rede.
+libretro-dirksimple suporta arquivos de .ogv e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é desnecessário
+- Mouse é desnecessário
+
+

@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Sistema Texas Instrument TI-99/4A (Computer)
+=======================================================================
+
+Copia qui le rom per Texas Instrument TI-99/4A.
+I file supportati sono: .ctg
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+ti99sim-ti99sim supporta i file di .ctg e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è opzionale
+- La Tastiera è obbligatoria
+- Il Mouse è opzionale
+
+

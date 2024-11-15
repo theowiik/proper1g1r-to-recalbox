@@ -1,0 +1,22 @@
+=======================================================================
+# RECALBOX: System PC Engine (Heimkonsole)
+=======================================================================
+
+Kopiere deine PC Engine roms hier her.
+Unterstützte Dateierweiterungen sind: .7z .pce .m3u .zip
+
+Dieses System kann mit 3 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-mednafen_supergrafx unterstüzt .m3u .pce .zip .7z und ist  kompatibel mit Netplay.
+libretro-mednafen_pce_fast unterstüzt .m3u .pce .zip .7z und ist  kompatibel mit Netplay.
+libretro-fbneo unterstüzt .zip .7z und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema Sega CD (Console da Tavolo)
+=======================================================================
+
+Copia qui le rom per Sega CD.
+I file supportati sono: .cue .m3u .iso .chd
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-picodrive supporta i file di .chd .cue .iso .m3u e  è compatibile con Netplay.
+libretro-genesisplusgx supporta i file di .cue .iso .chd e  è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+

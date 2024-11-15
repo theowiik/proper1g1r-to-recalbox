@@ -1,0 +1,26 @@
+=======================================================================
+# RECALBOX: Sistema Sega SG1000 (Consola de Salón)
+=======================================================================
+
+Copiad vuestras roms Sega SG1000 aquí.
+Las extensiones soportadas son: .7z .sg .sc .bin .zip
+
+Este sistema es emulado por 5 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-genesisplusgx soporta ficheros de tipo .sg .zip .7z y es compatible netplay.
+libretro-gearsystem soporta ficheros de tipo .bin .sg .zip .7z y es compatible netplay.
+libretro-fbneo soporta ficheros de tipo .zip .7z y es compatible netplay.
+libretro-bluemsx soporta ficheros de tipo .sc .sg .zip .7z y no es compatible netplay.
+libretro-picodrive soporta ficheros de tipo .bin .sc .sg .zip .7z y es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es no necesario
+
+Este sistema permite usar roms comprimidas en .zip y/o .7z.
+Sin embargo solo se trata de un archivo de almacenamiento. Los archivos dentro de .zip/.7z deben coincidir con las extensiones mencionadas arriba.
+Cada archivo .zip/.7z debe contener únicamente una rom comprimida.
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/consoles/sg-1000

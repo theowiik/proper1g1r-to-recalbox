@@ -1,0 +1,22 @@
+=======================================================================
+# RECALBOX: Sistema Sony Playstation 1 (Consola de Salón)
+=======================================================================
+
+Copiad vuestras roms Sony Playstation 1 aquí.
+Las extensiones soportadas son: .psexe .exe .ecm .cue .cbn .chd .img .ccd .mds .iso .bin .toc .m3u .pbp .psf .mdf
+
+Este sistema es emulado por 4 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-pcsx_rearmed soporta ficheros de tipo .bin .cbn .ccd .chd .cue .exe .iso .m3u .mdf .pbp .toc y no es compatible netplay.
+libretro-mednafen_psx soporta ficheros de tipo .ccd .chd .cue .m3u .pbp .toc y no es compatible netplay.
+libretro-swanstation soporta ficheros de tipo .chd .cue .ecm .exe .img .iso .m3u .mds .pbp .psf .psexe .toc y no es compatible netplay.
+duckstation-duckstation soporta ficheros de tipo .bin .chd .cue .ecm .img .iso .m3u .mds .pbp y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es no necesario
+
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/consoles/playstation-1

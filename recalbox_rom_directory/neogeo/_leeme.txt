@@ -1,0 +1,27 @@
+=======================================================================
+# RECALBOX: Sistema Neo-Geo (Consola de Salón)
+=======================================================================
+
+Copiad vuestras roms Neo-Geo aquí.
+Las extensiones soportadas son: .7z .neo .zip
+
+Este sistema es emulado por 6 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-fbneo soporta ficheros de tipo .zip .7z y es compatible netplay.
+libretro-mame2003_plus soporta ficheros de tipo .zip .7z y es compatible netplay.
+libretro-mame2003 soporta ficheros de tipo .zip .7z y es compatible netplay.
+libretro-mame2010 soporta ficheros de tipo .zip .7z y es compatible netplay.
+libretro-mame2015 soporta ficheros de tipo .zip .7z y es compatible netplay.
+libretro-geolith soporta ficheros de tipo .neo y es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es no necesario
+
+Este sistema permite usar roms comprimidas en .zip y/o .7z.
+Sin embargo solo se trata de un archivo de almacenamiento. Los archivos dentro de .zip/.7z deben coincidir con las extensiones mencionadas arriba.
+Cada archivo .zip/.7z debe contener únicamente una rom comprimida.
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/consoles/neo-geo

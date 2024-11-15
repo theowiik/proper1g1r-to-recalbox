@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: System SuFami Turbo (Heimkonsole)
+=======================================================================
+
+Kopiere deine SuFami Turbo roms hier her.
+Unterstützte Dateierweiterungen sind: .swc .7z .sfc .st .gd3 .smc .fig .zip
+
+Dieses System kann mit 1 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-snes9x unterstüzt .fig .gd3 .sfc .smc .st .swc .zip .7z und ist  kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist optional
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

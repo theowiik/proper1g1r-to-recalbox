@@ -1,0 +1,24 @@
+=======================================================================
+# RECALBOX: Système Infocom Z-Machine (Moteur de jeu)
+=======================================================================
+
+Copiez vos roms Infocom Z-Machine ici.
+Les extensions supportées sont: .z6 .dat .z2 .7z .z8 .z1 .z7 .z3 .z5 .z4 .zip
+
+Ce système peut être émulé par 2 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+frotz-frotz supporte des fichiers de type .dat .z1 .z2 .z3 .z4 .z5 .z6 .z7 .z8 et n'est pas compatible netplay.
+libretro-mojozork supporte des fichiers de type .dat .zip .z1 .z3 .7z et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont optionelles
+- Un clavier est obligatoire
+- Une souris est inutile
+
+Ce système supporte également les roms compressées au format .zip/.7z.
+Attention toutefois, il ne s'agit que d'une archive.
+Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions citées précédemment.
+De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/engines/zmachine

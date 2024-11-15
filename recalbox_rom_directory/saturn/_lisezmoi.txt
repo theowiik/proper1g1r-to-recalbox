@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Système Sega Saturn (Console de Salon)
+=======================================================================
+
+Copiez vos roms Sega Saturn ici.
+Les extensions supportées sont: .cue .chd .mds .ccd .iso .m3u
+
+Ce système peut être émulé par 2 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-mednafen_saturn supporte des fichiers de type .ccd .chd .cue .iso .mds .m3u et est compatible netplay.
+libretro-yabasanshiro supporte des fichiers de type .ccd .chd .cue .iso .mds .m3u et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/consoles/saturn

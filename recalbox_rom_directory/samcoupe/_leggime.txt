@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Sistema MGT SAM Coupé (Computer)
+=======================================================================
+
+Copia qui le rom per MGT SAM Coupé.
+I file supportati sono: .sbt .dsk .sad .mgt
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+simcoupe-simcoupe supporta i file di .dsk .mgt .sbt .sad e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è obbligatoria
+- Il Mouse è non necessario
+
+

@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Sistema Oric/Atmos (Ordenador)
+=======================================================================
+
+Copiad vuestras roms Oric/Atmos aquí.
+Las extensiones soportadas son: .tap .dsk
+
+Este sistema es emulado por 1 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+oricutron-oricutron soporta ficheros de tipo .dsk .tap y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es obligatorio
+- Un ratón es no necesario
+
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/computers/oric-atmos

@@ -1,0 +1,23 @@
+=======================================================================
+# RECALBOX: Sistema Sega Master System / Mark III (Console caseiro)
+=======================================================================
+
+Copie suas roms de Sega Master System / Mark III aqui.
+As extensões suportadas são: .7z .sms .zip
+
+Esse sistema podem ser emulados usando 4 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-picodrive suporta arquivos de .sms .zip .7z e  é compatível com netplay/jogo em rede.
+libretro-genesisplusgx suporta arquivos de .sms .zip .7z e  é compatível com netplay/jogo em rede.
+libretro-gearsystem suporta arquivos de .sms .zip .7z e  é compatível com netplay/jogo em rede.
+libretro-fbneo suporta arquivos de .zip .7z e  é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é desnecessário
+- Mouse é desnecessário
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

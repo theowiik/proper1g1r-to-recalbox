@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Sistema Amiga CDTV (Console caseiro)
+=======================================================================
+
+Copie suas roms de Amiga CDTV aqui.
+As extensões suportadas são: .cue .chd .mds .ccd .iso .nrg .m3u .uae
+
+Esse sistema podem ser emulados usando 3 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-uae4arm suporta arquivos de .ccd .chd .cue .iso .mds .m3u .nrg .uae e NÃO é compatível com netplay/jogo em rede.
+libretro-puae suporta arquivos de .ccd .chd .cue .iso .mds .m3u .nrg .uae e NÃO é compatível com netplay/jogo em rede.
+amiberry-amiberry suporta arquivos de .cue .iso .ccd e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é opcional
+- Mouse é opcional
+
+

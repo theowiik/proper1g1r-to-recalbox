@@ -1,0 +1,21 @@
+=======================================================================
+# RECALBOX: Système Amiga CDTV (Console de Salon)
+=======================================================================
+
+Copiez vos roms Amiga CDTV ici.
+Les extensions supportées sont: .cue .chd .mds .ccd .iso .nrg .m3u .uae
+
+Ce système peut être émulé par 3 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-uae4arm supporte des fichiers de type .ccd .chd .cue .iso .mds .m3u .nrg .uae et n'est pas compatible netplay.
+libretro-puae supporte des fichiers de type .ccd .chd .cue .iso .mds .m3u .nrg .uae et n'est pas compatible netplay.
+amiberry-amiberry supporte des fichiers de type .cue .iso .ccd et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est optionel
+- Une souris est optionelle
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/consoles/amiga-cdtv

@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: System PC Engine CD (Heimkonsole)
+=======================================================================
+
+Kopiere deine PC Engine CD roms hier her.
+Unterstützte Dateierweiterungen sind: .cue .chd .ccd .toc .m3u
+
+Dieses System kann mit 2 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-mednafen_supergrafx unterstüzt .ccd .chd .cue .m3u .toc und ist  kompatibel mit Netplay.
+libretro-mednafen_pce_fast unterstüzt .ccd .chd .cue .m3u .toc und ist  kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+

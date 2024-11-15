@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Sistema Philips VG 5000 (Computador)
+=======================================================================
+
+Copie suas roms de Philips VG 5000 aqui.
+As extensões suportadas são: .k7
+
+Esse sistema podem ser emulados usando 1 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+rb5000-rb5000 suporta arquivos de .k7 e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é recomendado
+- Teclado é obrigatório
+- Mouse é desnecessário
+
+

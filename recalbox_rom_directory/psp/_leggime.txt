@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema Sony Playstation Portable (Console Portatile)
+=======================================================================
+
+Copia qui le rom per Sony Playstation Portable.
+I file supportati sono: .prx .elf .iso .cso .pbp
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+ppsspp-ppsspp supporta i file di .cso .elf .iso .pbp .prx e NON è compatibile con Netplay.
+libretro-ppsspp supporta i file di .cso .elf .iso .pbp .prx e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+

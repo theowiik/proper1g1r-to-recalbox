@@ -1,0 +1,29 @@
+=======================================================================
+# RECALBOX: Sistema Super Nintendo Entertainment System (Consola de Salón)
+=======================================================================
+
+Copiad vuestras roms Super Nintendo Entertainment System aquí.
+Las extensiones soportadas son: .swc .gd7 .7z .bs .dx2 .bsx .sfc .gd3 .bml .smc .fig .zip
+
+Este sistema es emulado por 8 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-snes9x soporta ficheros de tipo .fig .gd3 .sfc .smc .swc .7z .zip y es compatible netplay.
+libretro-mesen_s soporta ficheros de tipo .smc .sfc .swc .fig .bs .7z .zip y es compatible netplay.
+libretro-snes9x2010 soporta ficheros de tipo .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip y es compatible netplay.
+libretro-snes9x2005 soporta ficheros de tipo .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip y es compatible netplay.
+libretro-snes9x2002 soporta ficheros de tipo .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip y es compatible netplay.
+libretro-bsnes soporta ficheros de tipo .bml .bsx .dx2 .fig .gd3 .gd7 .sfc .smc .swc .7z .zip y es compatible netplay.
+libretro-bsneshd soporta ficheros de tipo .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip y es compatible netplay.
+libretro-mednafen_supafaust soporta ficheros de tipo .fig .sfc .smc .swc .7z .zip y es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es opcional
+
+Este sistema permite usar roms comprimidas en .zip y/o .7z.
+Sin embargo solo se trata de un archivo de almacenamiento. Los archivos dentro de .zip/.7z deben coincidir con las extensiones mencionadas arriba.
+Cada archivo .zip/.7z debe contener únicamente una rom comprimida.
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/consoles/super-nintendo-entertainment-system

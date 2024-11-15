@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Sistema Commodore VIC-20 (Computer)
+=======================================================================
+
+Copia qui le rom per Commodore VIC-20.
+I file supportati sono: .20 .7z .70 .60 .b0 .tap .prg .d64 .bin .a0 .40 .crt .m3u .zip
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-vice_xvic supporta i file di .20 .40 .60 .70 .a0 .b0 .bin .crt .prg .m3u .d64 .tap .zip .7z e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è opzionale
+- La Tastiera è obbligatoria
+- Il Mouse è opzionale
+
+Questo sistema permette di utilizzare rom compresse in formato .zip o .7z.
+Ma si tratta solamente di un file d'archivio. I file all'interno del .zip/.7z devono combaciare con le estensioni menzionate in precedenza.
+Ogni .zip/.7z deve contenere solamente una rom compressa.
+

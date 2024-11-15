@@ -1,0 +1,26 @@
+=======================================================================
+# RECALBOX: Système Satellaview (Console de Salon)
+=======================================================================
+
+Copiez vos roms Satellaview ici.
+Les extensions supportées sont: .swc .7z .bs .sfc .gd3 .smc .fig .zip
+
+Ce système peut être émulé par 4 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-snes9x supporte des fichiers de type .bs .fig .gd3 .sfc .smc .swc .zip .7z et n'est pas compatible netplay.
+libretro-mesen_s supporte des fichiers de type .bs .sfc .smc .zip .7z et n'est pas compatible netplay.
+libretro-bsnes supporte des fichiers de type .bs .sfc .smc .zip .7z et n'est pas compatible netplay.
+libretro-bsneshd supporte des fichiers de type .bs .sfc .smc .zip .7z et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+Ce système supporte également les roms compressées au format .zip/.7z.
+Attention toutefois, il ne s'agit que d'une archive.
+Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions citées précédemment.
+De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/consoles/satellaview

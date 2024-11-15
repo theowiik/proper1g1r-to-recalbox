@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema Neo-Geo CD (Console da Tavolo)
+=======================================================================
+
+Copia qui le rom per Neo-Geo CD.
+I file supportati sono: .cue .chd .img .ccd .iso .bin
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-fbneo supporta i file di .bin .ccd .cue .img .iso e NON è compatibile con Netplay.
+libretro-neocd supporta i file di .chd .cue e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+

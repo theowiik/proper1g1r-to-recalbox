@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Sistema Panasonic 3DO (Consola de Salón)
+=======================================================================
+
+Copiad vuestras roms Panasonic 3DO aquí.
+Las extensiones soportadas son: .cue .iso .chd
+
+Este sistema es emulado por 1 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-opera soporta ficheros de tipo .chd .cue .iso y es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es no necesario
+
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/consoles/3do

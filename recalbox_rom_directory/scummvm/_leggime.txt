@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema ScummVM (Motore grafico)
+=======================================================================
+
+Copia qui le rom per ScummVM.
+I file supportati sono: .scummvm .residualvm
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-scummvm supporta i file di .scummvm .residualvm e NON è compatibile con Netplay.
+scummvm-scummvm supporta i file di .scummvm .residualvm e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è obbligatorio
+
+

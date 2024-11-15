@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema Sega CD (Console caseiro)
+=======================================================================
+
+Copie suas roms de Sega CD aqui.
+As extensões suportadas são: .cue .m3u .iso .chd
+
+Esse sistema podem ser emulados usando 2 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-picodrive suporta arquivos de .chd .cue .iso .m3u e  é compatível com netplay/jogo em rede.
+libretro-genesisplusgx suporta arquivos de .cue .iso .chd e  é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é desnecessário
+- Mouse é desnecessário
+
+

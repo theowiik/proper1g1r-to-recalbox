@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: System Sharp X1 (Computer)
+=======================================================================
+
+Kopiere deine Sharp X1 roms hier her.
+Unterstützte Dateierweiterungen sind: .tfd .88d .7z .dup .dx1 .cmd .xdf .2hd .m3u .d88 .hdm .2d .zip
+
+Dieses System kann mit 1 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-x1 unterstüzt .2d .2hd .88d .cmd .d88 .dx1 .dup .hdm .m3u .tfd .xdf .zip .7z und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist empfohlen
+- Eine Maus ist nutzlos
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

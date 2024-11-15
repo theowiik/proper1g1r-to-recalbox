@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Sistema Super Cassette Vision (Console caseiro)
+=======================================================================
+
+Copie suas roms de Super Cassette Vision aqui.
+As extensões suportadas são: .bin .0 .cart .zip
+
+Esse sistema podem ser emulados usando 1 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-emuscv suporta arquivos de .0 .bin .cart .zip e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é desnecessário
+- Mouse é desnecessário
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

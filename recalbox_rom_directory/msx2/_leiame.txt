@@ -1,0 +1,21 @@
+=======================================================================
+# RECALBOX: Sistema MSX2 (Computador)
+=======================================================================
+
+Copie suas roms de MSX2 aqui.
+As extensões suportadas são: .rom .mx2 .msx1 .7z .cas .ri .mx1 .msx2 .dsk .m3u .zip
+
+Esse sistema podem ser emulados usando 2 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-bluemsx suporta arquivos de .cas .dsk .mx1 .mx2 .m3u .ri .rom .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-fmsx suporta arquivos de .rom .msx1 .msx2 .dsk .cas .m3u .zip .7z e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é recomendado
+- Teclado é recomendado
+- Mouse é opcional
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: System Sony Playstation 1 (Heimkonsole)
+=======================================================================
+
+Kopiere deine Sony Playstation 1 roms hier her.
+Unterstützte Dateierweiterungen sind: .psexe .exe .ecm .cue .cbn .chd .img .ccd .mds .iso .bin .toc .m3u .pbp .psf .mdf
+
+Dieses System kann mit 4 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-pcsx_rearmed unterstüzt .bin .cbn .ccd .chd .cue .exe .iso .m3u .mdf .pbp .toc und ist NICHT kompatibel mit Netplay.
+libretro-mednafen_psx unterstüzt .ccd .chd .cue .m3u .pbp .toc und ist NICHT kompatibel mit Netplay.
+libretro-swanstation unterstüzt .chd .cue .ecm .exe .img .iso .m3u .mds .pbp .psf .psexe .toc und ist NICHT kompatibel mit Netplay.
+duckstation-duckstation unterstüzt .bin .chd .cue .ecm .img .iso .m3u .mds .pbp und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+

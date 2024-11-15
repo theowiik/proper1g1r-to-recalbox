@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Sistema Sega NAOMI 2 (Cabinato Arcade)
+=======================================================================
+
+Copia qui le rom per Sega NAOMI 2.
+I file supportati sono: .zip
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-flycast-next supporta i file di .zip e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+

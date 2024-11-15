@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Sistema MSXturboR (Computer)
+=======================================================================
+
+Copia qui le rom per MSXturboR.
+I file supportati sono: .rom .mx2 .7z .cas .mx1 .dsk .m3u .zip
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-bluemsx supporta i file di .cas .dsk .m3u .mx1 .mx2 .rom .zip .7z e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è raccomandato
+- La Tastiera è raccomandata
+- Il Mouse è opzionale
+
+Questo sistema permette di utilizzare rom compresse in formato .zip o .7z.
+Ma si tratta solamente di un file d'archivio. I file all'interno del .zip/.7z devono combaciare con le estensioni menzionate in precedenza.
+Ogni .zip/.7z deve contenere solamente una rom compressa.
+

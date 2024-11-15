@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Sistema Dragon 32/64 (Computador)
+=======================================================================
+
+Copie suas roms de Dragon 32/64 aqui.
+As extensões suportadas são: .rom .ccc .cas .wav .vdk .jvc .bas .os9 .dsk .asc .dmk
+
+Esse sistema podem ser emulados usando 1 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+xroar-xroar suporta arquivos de .cas .wav .bas .asc .dmk .jvc .os9 .dsk .vdk .rom .ccc e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é opcional
+- Teclado é obrigatório
+- Mouse é opcional
+
+

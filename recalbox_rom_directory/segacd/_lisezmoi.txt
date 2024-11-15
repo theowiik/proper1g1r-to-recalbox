@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Système Sega CD (Console de Salon)
+=======================================================================
+
+Copiez vos roms Sega CD ici.
+Les extensions supportées sont: .cue .m3u .iso .chd
+
+Ce système peut être émulé par 2 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-picodrive supporte des fichiers de type .chd .cue .iso .m3u et est compatible netplay.
+libretro-genesisplusgx supporte des fichiers de type .cue .iso .chd et est compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/consoles/mega-cd

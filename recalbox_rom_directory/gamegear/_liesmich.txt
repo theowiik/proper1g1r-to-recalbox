@@ -1,0 +1,23 @@
+=======================================================================
+# RECALBOX: System Sega Game Gear (Handheld)
+=======================================================================
+
+Kopiere deine Sega Game Gear roms hier her.
+Unterstützte Dateierweiterungen sind: .7z .bin .gg .zip
+
+Dieses System kann mit 4 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-genesisplusgx unterstüzt .gg .zip .7z und ist NICHT kompatibel mit Netplay.
+libretro-gearsystem unterstüzt .bin .gg .zip .7z und ist NICHT kompatibel mit Netplay.
+libretro-fbneo unterstüzt .zip .7z und ist NICHT kompatibel mit Netplay.
+libretro-picodrive unterstüzt .gg .zip .7z und ist  kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

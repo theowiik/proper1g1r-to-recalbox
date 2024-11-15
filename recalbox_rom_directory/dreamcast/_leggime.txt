@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema Sega Dreamcast (Console da Tavolo)
+=======================================================================
+
+Copia qui le rom per Sega Dreamcast.
+I file supportati sono: .gdi .cue .elf .chd .iso .cdi .bin .m3u
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-flycast supporta i file di .bin .cdi .chd .cue .elf .gdi .iso .m3u e NON è compatibile con Netplay.
+libretro-flycast-next supporta i file di .bin .cdi .chd .cue .elf .gdi .iso .m3u e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è opzionale
+- Il Mouse è opzionale
+
+

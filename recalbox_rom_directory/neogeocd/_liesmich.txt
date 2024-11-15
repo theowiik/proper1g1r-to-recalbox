@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: System Neo-Geo CD (Heimkonsole)
+=======================================================================
+
+Kopiere deine Neo-Geo CD roms hier her.
+Unterstützte Dateierweiterungen sind: .cue .chd .img .ccd .iso .bin
+
+Dieses System kann mit 2 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-fbneo unterstüzt .bin .ccd .cue .img .iso und ist NICHT kompatibel mit Netplay.
+libretro-neocd unterstüzt .chd .cue und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+

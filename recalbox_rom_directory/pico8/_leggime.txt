@@ -1,0 +1,21 @@
+=======================================================================
+# RECALBOX: Sistema PICO-8 (Console virtuale)
+=======================================================================
+
+Copia qui le rom per PICO-8.
+I file supportati sono: .7z .png .zip .p8
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-retro8 supporta i file di .p8 .png .zip .7z e NON è compatibile con Netplay.
+libretro-fake08 supporta i file di .p8 .png .zip .7z e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+Questo sistema permette di utilizzare rom compresse in formato .zip o .7z.
+Ma si tratta solamente di un file d'archivio. I file all'interno del .zip/.7z devono combaciare con le estensioni menzionate in precedenza.
+Ogni .zip/.7z deve contenere solamente una rom compressa.
+

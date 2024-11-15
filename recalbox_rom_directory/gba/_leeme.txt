@@ -1,0 +1,24 @@
+=======================================================================
+# RECALBOX: Sistema Game Boy Advance (Consola portatil)
+=======================================================================
+
+Copiad vuestras roms Game Boy Advance aquí.
+Las extensiones soportadas son: .u1 .gba .7z .gbz .agb .bin .zip
+
+Este sistema es emulado por 3 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-mgba soporta ficheros de tipo .gba .zip .7z y es compatible netplay.
+libretro-gpsp soporta ficheros de tipo .agb .bin .gba .gbz .u1 .zip .7z y no es compatible netplay.
+libretro-meteor soporta ficheros de tipo .gba .zip .7z y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es no necesario
+
+Este sistema permite usar roms comprimidas en .zip y/o .7z.
+Sin embargo solo se trata de un archivo de almacenamiento. Los archivos dentro de .zip/.7z deben coincidir con las extensiones mencionadas arriba.
+Cada archivo .zip/.7z debe contener únicamente una rom comprimida.
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/handhelds/game-boy-advance

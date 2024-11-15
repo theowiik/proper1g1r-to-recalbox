@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Système MGT SAM Coupé (Ordinateur)
+=======================================================================
+
+Copiez vos roms MGT SAM Coupé ici.
+Les extensions supportées sont: .sbt .dsk .sad .mgt
+
+Ce système peut être émulé par 1 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+simcoupe-simcoupe supporte des fichiers de type .dsk .mgt .sbt .sad et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est obligatoire
+- Une souris est inutile
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/computers/sam-coupe

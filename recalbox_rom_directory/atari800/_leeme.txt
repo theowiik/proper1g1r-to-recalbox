@@ -1,0 +1,22 @@
+=======================================================================
+# RECALBOX: Sistema Atari 800 (Ordenador)
+=======================================================================
+
+Copiad vuestras roms Atari 800 aquí.
+Las extensiones soportadas son: .xfd .rom .car .cas .atx .atr .com .xex .bin .m3u .dcm .zip
+
+Este sistema es emulado por 1 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-atari800 soporta ficheros de tipo .atr .atx .bin .car .cas .com .dcm .m3u .rom .xex .xfd .zip y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es recomendado
+- Un ratón es no necesario
+
+Este sistema permite usar roms comprimidas en .zip y/o .7z.
+Sin embargo solo se trata de un archivo de almacenamiento. Los archivos dentro de .zip/.7z deben coincidir con las extensiones mencionadas arriba.
+Cada archivo .zip/.7z debe contener únicamente una rom comprimida.
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/computers/atari-800

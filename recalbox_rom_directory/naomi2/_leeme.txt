@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Sistema Sega NAOMI 2 (Sistema Arcade)
+=======================================================================
+
+Copiad vuestras roms Sega NAOMI 2 aquí.
+Las extensiones soportadas son: .zip
+
+Este sistema es emulado por 1 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-flycast-next soporta ficheros de tipo .zip y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es no necesario
+
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/arcade/naomi-2

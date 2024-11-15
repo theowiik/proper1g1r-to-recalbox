@@ -1,0 +1,23 @@
+=======================================================================
+# RECALBOX: Sistema MSX2 (Ordenador)
+=======================================================================
+
+Copiad vuestras roms MSX2 aquí.
+Las extensiones soportadas son: .rom .mx2 .msx1 .7z .cas .ri .mx1 .msx2 .dsk .m3u .zip
+
+Este sistema es emulado por 2 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-bluemsx soporta ficheros de tipo .cas .dsk .mx1 .mx2 .m3u .ri .rom .zip .7z y no es compatible netplay.
+libretro-fmsx soporta ficheros de tipo .rom .msx1 .msx2 .dsk .cas .m3u .zip .7z y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son recomendados
+- Un teclado es recomendado
+- Un ratón es opcional
+
+Este sistema permite usar roms comprimidas en .zip y/o .7z.
+Sin embargo solo se trata de un archivo de almacenamiento. Los archivos dentro de .zip/.7z deben coincidir con las extensiones mencionadas arriba.
+Cada archivo .zip/.7z debe contener únicamente una rom comprimida.
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/computers/msx-2

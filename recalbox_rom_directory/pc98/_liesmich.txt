@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: System NEC PC-98 (Computer)
+=======================================================================
+
+Kopiere deine NEC PC-98 roms hier her.
+Unterstützte Dateierweiterungen sind: .fdi .7z .xdf .fdd .nfd .m3u .hdd .tfd .88d .d98 .cmd .hdm .dup .2hd .dcp .zip .98d .nhd .hdi .d88 .hdn .thd
+
+Dieses System kann mit 1 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-np2kai unterstüzt .d98 .98d .dcp .fdi .fdd .nfd .2hd .tfd .d88 .88d .hdm .xdf .dup .cmd .hdi .thd .nhd .hdd .hdn .m3u .zip .7z und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist empfohlen
+- Ein Keyboard ist pflicht
+- Eine Maus ist optional
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

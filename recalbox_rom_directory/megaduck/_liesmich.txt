@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: System MegaDuck (Handheld)
+=======================================================================
+
+Kopiere deine MegaDuck roms hier her.
+Unterstützte Dateierweiterungen sind: .bin
+
+Dieses System kann mit 1 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-sameduck unterstüzt .bin und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+

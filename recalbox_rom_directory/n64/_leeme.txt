@@ -1,0 +1,25 @@
+=======================================================================
+# RECALBOX: Sistema Nintendo 64 (Consola de Salón)
+=======================================================================
+
+Copiad vuestras roms Nintendo 64 aquí.
+Las extensiones soportadas son: .n64 .7z .v64 .z64 .zip
+
+Este sistema es emulado por 4 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+mupen64plus-glide64mk2 soporta ficheros de tipo .n64 .v64 .z64 y no es compatible netplay.
+libretro-parallel_n64 soporta ficheros de tipo .n64 .v64 .z64 .zip .7z y no es compatible netplay.
+libretro-mupen64plus_next soporta ficheros de tipo .n64 .v64 .z64 .zip .7z y no es compatible netplay.
+mupen64plus-rice soporta ficheros de tipo .n64 .v64 .z64 y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son obligatorios !
+- Un teclado es no necesario
+- Un ratón es no necesario
+
+Este sistema permite usar roms comprimidas en .zip y/o .7z.
+Sin embargo solo se trata de un archivo de almacenamiento. Los archivos dentro de .zip/.7z deben coincidir con las extensiones mencionadas arriba.
+Cada archivo .zip/.7z debe contener únicamente una rom comprimida.
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/consoles/nintendo-64

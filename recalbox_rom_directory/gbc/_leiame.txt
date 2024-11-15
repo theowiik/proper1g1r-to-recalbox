@@ -1,0 +1,24 @@
+=======================================================================
+# RECALBOX: Sistema Game Boy Color (Console portátil)
+=======================================================================
+
+Copie suas roms de Game Boy Color aqui.
+As extensões suportadas são: .gb .7z .gbc .bin .zip
+
+Esse sistema podem ser emulados usando 5 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-gambatte suporta arquivos de .gb .gbc .bin .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-tgbdual suporta arquivos de .gb .gbc .bin .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-mgba suporta arquivos de .gb .gbc .bin .zip .7z e  é compatível com netplay/jogo em rede.
+libretro-sameboy suporta arquivos de .gb .gbc .bin .zip .7z e  é compatível com netplay/jogo em rede.
+libretro-mesen_s suporta arquivos de .gb .gbc .zip .7z e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é desnecessário
+- Mouse é desnecessário
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

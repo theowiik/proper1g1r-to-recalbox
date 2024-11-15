@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema Sega NAOMI (Cabinato Arcade)
+=======================================================================
+
+Copia qui le rom per Sega NAOMI.
+I file supportati sono: .7z .lst .dat .zip
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-flycast supporta i file di .dat .lst .zip .7z e NON è compatibile con Netplay.
+libretro-flycast-next supporta i file di .dat .lst .zip .7z e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+

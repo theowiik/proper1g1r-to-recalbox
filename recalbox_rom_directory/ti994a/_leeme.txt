@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Sistema Texas Instrument TI-99/4A (Ordenador)
+=======================================================================
+
+Copiad vuestras roms Texas Instrument TI-99/4A aquí.
+Las extensiones soportadas son: .ctg
+
+Este sistema es emulado por 1 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+ti99sim-ti99sim soporta ficheros de tipo .ctg y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son opcionales
+- Un teclado es obligatorio
+- Un ratón es opcional
+
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/computers/ti-99-4a

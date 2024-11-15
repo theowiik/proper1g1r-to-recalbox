@@ -1,0 +1,22 @@
+=======================================================================
+# RECALBOX: Sistema NEC PC-88 (Ordenador)
+=======================================================================
+
+Copiad vuestras roms NEC PC-88 aquí.
+Las extensiones soportadas son: .7z .cmt .t88 .d88 .m3u .zip
+
+Este sistema es emulado por 1 emuladores diferentes.
+Estos emuladores se listan a continuación por order de compatibilidad/facilidad de uso:
+libretro-quasi88 soporta ficheros de tipo .d88 .t88 .cmt .m3u .zip .7z y no es compatible netplay.
+
+Periféricos soportados:
+- Los mandos son opcionales
+- Un teclado es obligatorio
+- Un ratón es no necesario
+
+Este sistema permite usar roms comprimidas en .zip y/o .7z.
+Sin embargo solo se trata de un archivo de almacenamiento. Los archivos dentro de .zip/.7z deben coincidir con las extensiones mencionadas arriba.
+Cada archivo .zip/.7z debe contener únicamente una rom comprimida.
+
+Más información y documentación en:
+https://wiki.recalbox.com/es/emulators/computers/pc-88

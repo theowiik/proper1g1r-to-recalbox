@@ -1,0 +1,21 @@
+=======================================================================
+# RECALBOX: Sistema Dos (x86) (Computador)
+=======================================================================
+
+Copie suas roms de Dos (x86) aqui.
+As extensões suportadas são: .dos .pc .zip
+
+Esse sistema podem ser emulados usando 2 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-dosbox_pure suporta arquivos de .zip e NÃO é compatível com netplay/jogo em rede.
+dosbox-dosbox suporta arquivos de .dos .pc e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é recomendado
+- Teclado é recomendado
+- Mouse é recomendado
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

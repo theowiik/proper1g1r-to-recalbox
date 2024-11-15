@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: Sistema ScummVM (Game engine)
+=======================================================================
+
+Copie suas roms de ScummVM aqui.
+As extensões suportadas são: .scummvm .residualvm
+
+Esse sistema podem ser emulados usando 2 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-scummvm suporta arquivos de .scummvm .residualvm e NÃO é compatível com netplay/jogo em rede.
+scummvm-scummvm suporta arquivos de .scummvm .residualvm e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é desnecessário
+- Mouse é obrigatório
+
+

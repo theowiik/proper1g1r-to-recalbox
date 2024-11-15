@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Sistema Virtual Boy (Console da Tavolo)
+=======================================================================
+
+Copia qui le rom per Virtual Boy.
+I file supportati sono: .7z .vb .vboy .bin .zip
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-mednafen_vb supporta i file di .vb .vboy .bin .zip .7z e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+Questo sistema permette di utilizzare rom compresse in formato .zip o .7z.
+Ma si tratta solamente di un file d'archivio. I file all'interno del .zip/.7z devono combaciare con le estensioni menzionate in precedenza.
+Ogni .zip/.7z deve contenere solamente una rom compressa.
+

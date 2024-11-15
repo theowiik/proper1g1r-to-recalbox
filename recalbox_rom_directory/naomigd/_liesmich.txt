@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: System Sega NAOMI GD-ROM System (Arcade)
+=======================================================================
+
+Kopiere deine Sega NAOMI GD-ROM System roms hier her.
+Unterstützte Dateierweiterungen sind: .7z .lst .dat .zip
+
+Dieses System kann mit 2 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-flycast unterstüzt .dat .lst .zip .7z und ist NICHT kompatibel mit Netplay.
+libretro-flycast-next unterstüzt .dat .lst .zip .7z und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+

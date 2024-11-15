@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Sistema Oric/Atmos (Computer)
+=======================================================================
+
+Copia qui le rom per Oric/Atmos.
+I file supportati sono: .tap .dsk
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+oricutron-oricutron supporta i file di .dsk .tap e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è obbligatoria
+- Il Mouse è non necessario
+
+

@@ -1,0 +1,21 @@
+=======================================================================
+# RECALBOX: System Infocom Z-Machine (Spiel-Engine)
+=======================================================================
+
+Kopiere deine Infocom Z-Machine roms hier her.
+Unterstützte Dateierweiterungen sind: .z6 .dat .z2 .7z .z8 .z1 .z7 .z3 .z5 .z4 .zip
+
+Dieses System kann mit 2 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+frotz-frotz unterstüzt .dat .z1 .z2 .z3 .z4 .z5 .z6 .z7 .z8 und ist NICHT kompatibel mit Netplay.
+libretro-mojozork unterstüzt .dat .zip .z1 .z3 .7z und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist optional
+- Ein Keyboard ist pflicht
+- Eine Maus ist nutzlos
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

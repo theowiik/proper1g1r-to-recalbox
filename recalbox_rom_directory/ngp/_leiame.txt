@@ -1,0 +1,22 @@
+=======================================================================
+# RECALBOX: Sistema Neo-Geo Pocket (Console portátil)
+=======================================================================
+
+Copie suas roms de Neo-Geo Pocket aqui.
+As extensões suportadas são: .7z .ngp .zip
+
+Esse sistema podem ser emulados usando 3 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-mednafen_ngp suporta arquivos de .ngp .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-race suporta arquivos de .ngp .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-fbneo suporta arquivos de .zip .7z e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é desnecessário
+- Mouse é desnecessário
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+
