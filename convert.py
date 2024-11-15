@@ -1,13 +1,12 @@
-import csv
+import json
 from argparse import ArgumentParser, Namespace
 
 from util import get_files_by_extension, get_subdirs, has_duplicate_values
 
 
 def get_mappings() -> dict[str, str]:
-    with open("data.csv") as f:
-        reader = csv.reader(f)
-        return {row[0]: row[1] for row in reader}
+    with open("mappings.json") as f:
+        return json.load(f)
 
 
 def get_args() -> Namespace:
@@ -59,6 +58,10 @@ def main() -> None:
 
     if has_duplicate_values(mappings):
         print("❌ Duplicate values")
+        valid = False
+
+    if not len(proper_zips) == len(mappings):
+        print("❌ Length mismatch")
         valid = False
 
     if not assert_valid_mapping(mappings, proper_zips, True):
