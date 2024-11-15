@@ -19,7 +19,3 @@ def get_subdirs(directory: str) -> set[str]:
             subdirs.append(filename)
 
     return set(subdirs)
-
-
-def has_duplicate_values(values: dict[str, str]) -> bool:
-    return len(values) != len(set(values.values()))
