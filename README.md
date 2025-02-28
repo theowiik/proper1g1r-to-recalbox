@@ -2,5 +2,5 @@
 Convert PropeR's ROM set to recalbox folder structure
 
 ```python
-python src/convert.py
+python src/main.py <input_dir> <output_dir>
 ```

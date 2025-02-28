@@ -65,5 +65,6 @@ def rename_dir(abs_path: Path, new_name: str) -> None:
     if not abs_path.is_absolute():
         raise ValueError(f"❌ {abs_path} is not an absolute path.")
 
-    abs_path.rename(new_name)
+    new_path = abs_path.parent / new_name
+    abs_path.rename(new_path)
     print(f"✅ Renamed {abs_path} to {new_name}")
